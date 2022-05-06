@@ -1,0 +1,7 @@
+This project contains Linear SVM implementation for the Titanic Problem on Kaggle Website. Different types of Kernel have been used to find the best kernel method for SVM.
+Kernel used are as follows: - 
+  1) Linear
+  2) Quatratic
+  3) RBF
+  
+
