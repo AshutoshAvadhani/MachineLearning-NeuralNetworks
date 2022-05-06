@@ -1,0 +1,2 @@
+Implemented NN to recognize handwritten digits using stochastic gradient descent and the MNIST data. 
+The project contains both implementation using Python and using PyTorch.
